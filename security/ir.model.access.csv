@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo_olamundo_samuel_odoo_olamundo_samuel,odoo_olamundo_samuel.odoo_olamundo_samuel,model_odoo_olamundo_samuel_odoo_olamundo_samuel,base.group_user,1,1,1,1
