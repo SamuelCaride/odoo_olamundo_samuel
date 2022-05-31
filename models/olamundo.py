@@ -3,7 +3,7 @@
 from odoo import models, fields, api
 
 
-class odoo_olamundo_samuel(models.Model):
+class olamundo(models.Model):
     _name = 'odoo_olamundo_samuel.olamundo'
     _description = 'Exemplo olamundo'
 
